@@ -4,14 +4,14 @@
 
 ```bash
 
-pip install webdriver-manager==4.0.0  // for Windows
+pip install webdriver-manager==4.0.2  // for Windows
 
-pip3 install webdriver-manager==4.0.0  // for Mac / Linux Distros
+pip3 install webdriver-manager==4.0.2  // for Mac / Linux Distros
 
 ```
 
-
 #### -> Now, you need to import the package in your Python script, by adding this line at the top of your script :
+
 ##### (Note you can find these lines in the main.py file in this repository)
 
 ```python
